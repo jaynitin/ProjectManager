@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.your-projects{
+    border:3px solid black
+}
+
+.project-maker{
+    border:3px solid red
+}
+
+.project-editor{
+    border:3px solid green
+}
+
+.no-projects{
+    border:3px solid blue
+}
+
+.btn{
+    border : 3px solid grey;
+    background-color: blanchedalmond;
+}
+
+.del{
+    background-color: rgb(236, 150, 150);
+}
